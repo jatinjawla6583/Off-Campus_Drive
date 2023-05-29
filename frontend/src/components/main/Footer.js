@@ -18,7 +18,8 @@ const Footer = () => {
           <a href="" className="me-4 text-reset">
             <i className="fab fa-twitter" />
           </a>
-          <a href="" className="me-4 text-reset">
+          <a href="https://www.google.com/search?q=google&rlz=1C1CHBF_enIN918IN918&oq=goog&aqs=chrome.0.0i131i355i433i512j46i131i
+          199i433i465i512j0i131i433i512j69i60j69i65j5j69i65l2.1354j0j7&sourceid=chrome&ie=UTF-8" className="me-4 text-reset">
             <i className="fab fa-google" />
           </a>
           <a href="" className="me-4 text-reset">
@@ -27,7 +28,7 @@ const Footer = () => {
           <a href="" className="me-4 text-reset">
             <i className="fab fa-linkedin" />
           </a>
-          <a href="" className="me-4 text-reset">
+          <a href="https://github.com/settings/profile" className="me-4 text-reset">
             <i className="fab fa-github" />
           </a>
         </div>
